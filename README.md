@@ -1,0 +1,2 @@
+# mysfits
+AWS Python Workshop

@@ -1,9 +1,6 @@
-# Mysfits
-
-<img src="https://user-images.githubusercontent.com/70636816/134847304-11c7f356-30a5-471f-abac-9e90e231093f.gif" width="15%"></img> 
-
-
+# Mysfits <img src="https://user-images.githubusercontent.com/70636816/134847304-11c7f356-30a5-471f-abac-9e90e231093f.gif" width="15%"></img> 
 AWS Python Workshop
+
 I will implement Mythical Mysfits using these modules:
 
 Create Static Website Build a static website, using Amazon Simple Storage Service (S3) that serves static content (images, static text, etc.) for My website.
